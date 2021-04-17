@@ -1,5 +1,6 @@
 # procrastinate_or_not
-
+# magic8ball
+A basic implementation of famous magic 8 ball. 
 A new Flutter application.
 
 ## Getting Started
